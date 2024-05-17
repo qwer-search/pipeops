@@ -1,1 +1,1 @@
-FROM ghcr.io/eooce/pipope:latest
+FROM ghcr.io/eooce/hug-2go:latest  
