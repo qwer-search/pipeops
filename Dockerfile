@@ -1,1 +1,1 @@
-FROM ghcr.io/eooce/pipope:nodejs:main
+FROM ghcr.io/eooce/nodejs:main
